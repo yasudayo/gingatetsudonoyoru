@@ -10,12 +10,11 @@ h2 {
 p {
     color: white;
 }
-div.box {
-    background-color: white;
-    width: 600px;
-    height: 300px;
+.box img {
+    width: 41%;
+    height: auto;
     position: absolute;
-    left: 25%;
+    left: 28%;
 }
 .box1 {
     position: absolute;
