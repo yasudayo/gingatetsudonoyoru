@@ -29,3 +29,9 @@ p {
     left: 40%;
     top: 50%;
 }
+
+#bun {
+     position: absolute;
+     text-align: center;
+     color: white;
+}
