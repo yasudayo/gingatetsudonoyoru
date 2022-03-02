@@ -28,6 +28,7 @@ p {
     position: absolute;
     left: 40%;
     top: 60%;
+    cursor: pointer;
 }
 
 #bun {
