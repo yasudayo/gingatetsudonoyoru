@@ -45,4 +45,8 @@ p {
     width: 35%;
     height: auto;
     position: absolute;
+    top: 50%;
+}
+#download {
+    text-align: center;
 }
