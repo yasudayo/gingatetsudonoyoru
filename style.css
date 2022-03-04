@@ -34,8 +34,9 @@ p {
     cursor: pointer;
     bottom: 9%;
 }
-
-#icon1 {
-    width: 21%;
+#銀河鉄 {
+    width: 10%;
     height: auto;
+    position: absolute;
+    top: 20%;
 }
