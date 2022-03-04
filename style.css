@@ -47,8 +47,6 @@ p {
     position: absolute;
     top: 50%;
 }
-.btn btn-primary {
-    text-align: center;
-    left: 60%;
-    top: 60%    
+body1 {
+    text-align: center;   
 }
