@@ -34,3 +34,8 @@ p {
     cursor: pointer;
     bottom: 9%;
 }
+
+#icon1 {
+    width: 34%;
+    height: auto;
+}
