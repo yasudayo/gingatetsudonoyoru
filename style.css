@@ -45,8 +45,10 @@ p {
     width: 35%;
     height: auto;
     position: absolute;
-    top: 50%;
 }
-body1 {
-    text-align: center;   
+
+.btn-primary {
+    position: absolute;
+    left: 70%;
+    text-align: center;
 }
